@@ -1,2 +1,2 @@
-# cansat-tessat
+# Cansat
 A Cansat for retriviting atomospheric data
